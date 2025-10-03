@@ -2,8 +2,6 @@
 
 2 Players game, the famous tik-tak-toe using Angular v20.
 
-Main developer GitHub account: [igor-h](https://github.com/igor-h) <img src="https://avatars.githubusercontent.com/u/39650812?v=4" width="32px;" alt=""/>
-
 
 ## 🧰 Built With
 
